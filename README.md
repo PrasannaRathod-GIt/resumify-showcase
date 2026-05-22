@@ -1,6 +1,9 @@
-# Resumify — Resume Builder & Job Discovery (Flask)
+# Resumify — Full-Stack Career Portal: ATS Resume Builder & Job Board Suite
 
-Live: https://resumify-2jvg.onrender.com/
+## 🚀 Executive Product Overview
+A production-ready, highly marketable Career Platform built with a robust Python/Flask and cloud-native PostgreSQL architecture. This ecosystem is engineered as a "Business-in-a-Box," combining an ATS-optimized resume generator with a dynamic job portal to drive recurring user retention. 
+
+* **Live Demo Video Walkthrough:** https://resumify-2jvg.onrender.com/
 
 # Project Preview
 
@@ -58,3 +61,23 @@ Here is a visual walkthrough of Resumify.
 
 ### Available for Mobile Devices
 ![Available for Mobile Devices](images/Resumify%20Mobile.png)
+
+## 🛠️ Key Technical Assets
+
+### 1. Advanced Resume Engine
+* **5+ Production Templates:** Includes highly scannable corporate ATS-friendly profiles, dual-column layouts with image-processing handlers, and premium wide creative templates.
+* **Triple-Format Export Architecture:** Generates crisp high-resolution JPGs, standard Image-PDFs, and fully parsable, searchable Text-PDFs (critical for applicant tracking systems).
+
+### 2. Integrated Job Portal & Recruiter Suite
+* **Dynamic Job Board:** Native infrastructure supporting internship and job postings with robust routing, custom categories, and official outreach links.
+* **No-Code Admin Control Dashboard:** Secured custom administrative URL allowing immediate management, adding, and updating of roles without modifying code files.
+
+### 3. Production Architecture (Built for Scale)
+* **Cloud Database:** Migrated completely to PostgreSQL (via Neon.tech) to maintain rock-solid data integrity under concurrent user operations.
+* **Dynamic Asset Pipeline:** Zero local server storage dependence. All image buffers and generated layouts instantly upload to Cloudinary CDN, ensuring lightning-fast assets that never disappear during server restarts.
+* **Strict Security Hygiene:** Decoupled database connection keys, JWT tokens, and system credentials into secured environment variables (`.env`). Zero hardcoded credentials.
+
+## 📦 What is Included in the Sale Assets
+* **Full, Documented Source Code:** Transferred securely via GitHub Private Repository handover.
+* **Production Deployment Configurations:** Standard settings for hassle-free hosting on Render/Neon pipelines.
+* **The Scale & Operations Manual:** A step-by-step documentation booklet including **pre-tested AI Prompts** designed to let non-technical owners build infinite new Canva-style templates and populate job feeds instantly.
