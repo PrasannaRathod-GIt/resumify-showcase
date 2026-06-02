@@ -3,7 +3,8 @@
 ## 🚀 Executive Product Overview
 A production-ready, highly marketable Career Platform built with a robust Python/Flask and cloud-native PostgreSQL architecture. This ecosystem is engineered as a "Business-in-a-Box," combining an ATS-optimized resume generator with a dynamic job portal to drive recurring user retention. 
 
-* **Live Demo Video Walkthrough:** https://resumify-2jvg.onrender.com/
+* **Live Demo Video Walkthrough:** https://youtu.be/cwjHfpztkUA?si=-dRL0lU5oHp1zZ9u
+* Demo link - https://resumify-2jvg.onrender.com/
 
 # Project Preview
 
