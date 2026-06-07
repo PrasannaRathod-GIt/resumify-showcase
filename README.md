@@ -77,6 +77,7 @@ Here is a visual walkthrough of Resumify.
 * **Cloud Database:** Migrated completely to PostgreSQL (via Neon.tech) to maintain rock-solid data integrity under concurrent user operations.
 * **Dynamic Asset Pipeline:** Zero local server storage dependence. All image buffers and generated layouts instantly upload to Cloudinary CDN, ensuring lightning-fast assets that never disappear during server restarts.
 * **Strict Security Hygiene:** Decoupled database connection keys, JWT tokens, and system credentials into secured environment variables (`.env`). Zero hardcoded credentials.
+* * **Linkedin profile** = www.linkedin.com/in/prasnnarathod106687
 
 ## 📦 What is Included in the Sale Assets
 * **Full, Documented Source Code:** Transferred securely via GitHub Private Repository handover.
