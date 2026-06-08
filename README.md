@@ -66,7 +66,7 @@ Here is a visual walkthrough of Resumify.
 ## 🛠️ Key Technical Assets
 
 ### 1. Advanced Resume Engine
-* **5+ Production Templates:** Includes highly scannable corporate ATS-friendly profiles, dual-column layouts with image-processing handlers, and premium wide creative templates.
+* **7+ Production Templates:** Includes highly scannable corporate ATS-friendly profiles, dual-column layouts with image-processing handlers, and premium wide creative templates.
 * **Triple-Format Export Architecture:** Generates crisp high-resolution JPGs, standard Image-PDFs, and fully parsable, searchable Text-PDFs (critical for applicant tracking systems).
 
 ### 2. Integrated Job Portal & Recruiter Suite
