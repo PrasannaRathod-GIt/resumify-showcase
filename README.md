@@ -76,7 +76,9 @@ Here is a visual walkthrough of Resumify.
 ### 3. Production Architecture (Built for Scale)
 * **Cloud Database:** Migrated completely to PostgreSQL (via Neon.tech) to maintain rock-solid data integrity under concurrent user operations.
 * **Dynamic Asset Pipeline:** Zero local server storage dependence. All image buffers and generated layouts instantly upload to Cloudinary CDN, ensuring lightning-fast assets that never disappear during server restarts.
-* **Strict Security Hygiene:** Decoupled database connection keys, JWT tokens, and system credentials into secured environment variables (`.env`). Zero hardcoded credentials.
+* **Strict Security Hygiene:** Secure Identity & Google OAuth 2.0: Integrated frictionless, production-ready user onboarding using Google OAuth 2.0 alongside robust JWT session tokens. This gives users a secure, modern one-click login experience, which drastically lowers signup friction and improves user acquisition.
+
+Strict Security Hygiene: Decoupled all database connection strings, JWT secrets, Google OAuth client credentials, and system tokens into secured environment variables (.env). With zero hardcoded credentials in the repository, the application is 100% secure and structured for an instant, safe handover.
 * * **Linkedin profile** = www.linkedin.com/in/prasnnarathod106687
 
 ## 📦 What is Included in the Sale Assets
